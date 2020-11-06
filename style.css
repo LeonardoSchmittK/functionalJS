@@ -1,0 +1,17 @@
+
+body {
+ height: 100vh;
+ display:grid;
+ place-content: center;
+}
+
+.title {
+ background: linear-gradient(90deg,rgb(132, 132, 233),rgb(96, 96, 233)) ;
+ padding: 30px;
+ font-size:5em;
+ border-radius: 10px;
+ box-shadow: inset 30px 30px 20px rgba(254, 254, 255, 0.144); 
+ font-family: sans-serif;
+ color: #fff;
+ letter-spacing: 10px;
+}
